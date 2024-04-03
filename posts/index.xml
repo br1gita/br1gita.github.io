@@ -9,10 +9,31 @@
     <description>Recent content in Posts on Tinklalapis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Apr 2024 21:21:12 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 21:32:37 +0300</lastBuildDate>
     
 	<atom:link href="https://br1gita.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kodukas</title>
+      <link>https://br1gita.github.io/posts/image/</link>
+      <pubDate>Wed, 03 Apr 2024 21:32:37 +0300</pubDate>
+      
+      <guid>https://br1gita.github.io/posts/image/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+#include &amp;lt;iostream&amp;gt; using namespace std; int main() { int num1, num2; cout &amp;lt;&amp;lt; &amp;#34;Enter the first number: &amp;#34;; cin &amp;gt;&amp;gt; num1; cout &amp;lt;&amp;lt; &amp;#34;Enter the second number: &amp;#34;; cin &amp;gt;&amp;gt; num2; int sum = num1 + num2; cout &amp;lt;&amp;lt; &amp;#34;The sum of &amp;#34; &amp;lt;&amp;lt; num1 &amp;lt;&amp;lt; &amp;#34; and &amp;#34; &amp;lt;&amp;lt; num2 &amp;lt;&amp;lt; &amp;#34; is: &amp;#34; &amp;lt;&amp;lt; sum; return 0; } #Kodas skirtas susumuoti du skaičius. 
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>Testuojam</title>
